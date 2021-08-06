@@ -1,2 +1,1 @@
-Git revert file 2
 This is sample file 1
